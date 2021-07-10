@@ -1,3 +1,3 @@
-# i2c-scanner
+# mcu-shell
 
 test smth
